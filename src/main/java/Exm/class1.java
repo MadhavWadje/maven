@@ -1,5 +1,7 @@
 package Exm;
 
+Maven project is successfully move from eclipse to GitHub
+Github is a pull or push activity	
 import org.openqa.selenium.By;
 import org.openqa.selenium.JavascriptExecutor;
 import org.openqa.selenium.Keys;
